@@ -13,6 +13,22 @@ How it is helpful?
 4.Finance Commission provides grants to the states on the basis of population figures.
 
 5.Statistical Analysis. 
+
+# Dataset:
+https://github.com/Lantav111/End-to-End-Project-Indian-Census-2011/tree/main/End%20to%20End%20Project/Dataset
+
+# EDA:
+Exploratory Data Analysis refers to the critical process of performing initial investigations on data so as to discover patterns,to spot anomalies,to test hypothesis and to check assumptions with the help of summary statistics and graphical representations.
+
+as,
+![image](https://user-images.githubusercontent.com/85281225/191274386-03365e37-6b6c-4dde-a589-132a2be5c983.png)
+
+# Libraries used in python:
+1.pandas 
+2.numpy as np
+3.matplotlib
+4.seaborn
+
 # Connnection:
 ![Connection](https://user-images.githubusercontent.com/85281225/191272002-09842fba-9058-4f26-94f5-2d0bf9c1b0cf.png)
 
