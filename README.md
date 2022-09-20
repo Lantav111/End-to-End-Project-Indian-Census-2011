@@ -2,7 +2,7 @@
 
 Interactive dynamic Report on "Census of India 2011" with KPIs (Key Performance Indicators) as Population distribution, Geographical Region, Literacy(With Male and Female segregation), Sex Ratio, ST Population, Status of Households Deprived, Religion/Caste Distribution, etc. with State and District providing actionable insights .
 
-How it is helpful?
+# How it is helpful?
 
 1.To analyze trends of population and make projections.
 
@@ -35,9 +35,12 @@ https://github.com/Lantav111/End-to-End-Project-Indian-Census-2011/tree/main/End
 ![image](https://user-images.githubusercontent.com/85281225/191274386-03365e37-6b6c-4dde-a589-132a2be5c983.png)
 
 # Libraries used in python:
-1.pandas 
+1.pandas
+
 2.numpy 
+
 3.matplotlib
+
 4.seaborn
 
 # Step 3:
