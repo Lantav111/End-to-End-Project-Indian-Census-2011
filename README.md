@@ -13,3 +13,4 @@ How it is helpful?
 4.Finance Commission provides grants to the states on the basis of population figures.
 
 5.Statistical Analysis. 
+![Connection](https://user-images.githubusercontent.com/85281225/191272002-09842fba-9058-4f26-94f5-2d0bf9c1b0cf.png)
